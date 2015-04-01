@@ -1,17 +1,12 @@
-# Alloy *Background Image* Widget
+# Alloy *Background Cover Image* Widget
 [![Appcelerator Titanium](http://www-static.appcelerator.com/badges/titanium-git-badge-sq.png)](http://appcelerator.com/titanium/) [![Appcelerator Alloy](http://www-static.appcelerator.com/badges/alloy-git-badge-sq.png)](http://appcelerator.com/alloy/)
 
 The [Alloy](http://appcelerator.com/alloy) *Background Image* widget is a cross-platform widget to allow you to fill the entire screen with your background image both portrait and landscape regardless of platform or orientation using a single image.
 
 
-## Screenshots
-### Android
+## Screencast
+![Screencast](https://s3.amazonaws.com/f.cl.ly/items/323U0z1Z1E2G1G0v3z29/screencast.gif)
 
-![Android](android.gif)
-
-### iOS
-
-![iOS](ios.gif)
 
 ## Usage [![gitTio](http://gitt.io/badge.png)](http://gitt.io/component/com.centogram.bgimage)
 1. Install [com.centogram.bgimage](http://gitt.io/component/com.centogram.bgimage) via [gitTio](http://gitt.io):
