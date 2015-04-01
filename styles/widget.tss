@@ -1,0 +1,4 @@
+"#backgroundImage": {
+  image: '/images/background.png',
+  opacity: 0.0
+}

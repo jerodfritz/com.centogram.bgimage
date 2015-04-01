@@ -1,0 +1,13 @@
+{
+	"id": "com.centogram.bgimage",
+	"name": "com.centogram.bgimage",
+	"description" : "Full Screen Background Images",
+	"author": "Jerod Fritz @centogram",
+	"version": "1.0",
+	"copyright":"Copyright (c) 2015",
+	"license":"Public Domain",
+	"min-alloy-version": "1.0",
+	"min-titanium-version":"2.1",
+	"tags":"",
+	"platforms":"android,ios"
+}
